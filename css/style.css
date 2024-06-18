@@ -10,6 +10,9 @@ h1,
 p {
   text-align: center;
 }
+a:visited {
+  color: brown;
+}
 .links {
   color: orange;
   text-align: center;
