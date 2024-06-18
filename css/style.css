@@ -1,5 +1,16 @@
 img {
-  width: 50%;
+  width: 400px;
   display: block;
   margin: 0% auto;
+}
+body {
+  background-color: beige;
+}
+h1,
+p {
+  text-align: center;
+}
+.links {
+  color: orange;
+  text-align: center;
 }
